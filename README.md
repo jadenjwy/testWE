@@ -3,7 +3,7 @@
    <p align="center">
       Automated Optimization Software
    <br>
-   <a href="https://github.com/ID/wolfengine/issues/new?template=bug.md">Report Bug</a>
+   <a href="https://github.com/jadenjwy/testWE/issues/new?template=Bug_report.md">Report Bug</a>
    </p>
  </p>
    
