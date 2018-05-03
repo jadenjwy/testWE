@@ -1,8 +1,10 @@
-<h3 align=”center”>Wolf Engine</h3>
 <p align=”center”>
-   Automated Optimization Software
+   <h3 align=”center”>Wolf Engine</h3>
+   <p align=”center”>
+      Automated Optimization Software
    <br>
-
+   </p>
+ </p>
    <a href=”https://github.com/ID/wolfengine/issues/new?template=bug.md”>Report (https://github.com/ID/wolfengine/issues/new?template=bug.md%94%3EReport) Bug</a>
 
 About
@@ -12,17 +14,13 @@ Wolf Engine combines dynamic optimization and asynchronous calculation technique
 
 ## Installation or Getting Started
 
-
-
 ## Contribution guidelines
 
 If you want to contribute to **Wolf Engine**, be sure to read through our [contribution guidelines](contribution.md). 
 
-Community
+## Community
 
-
-
-License
+## License
 
 GNU AGPL v3 
 
