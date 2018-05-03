@@ -7,8 +7,7 @@
    </p>
  </p>
    
-About
-
+## About
 **Wolf Engine** is an open source task process optimizing engine for exploratory data analysis using workflow design. 
 Wolf Engine combines dynamic optimization and asynchronous calculation techniques with an automated system operation. These powerful features enable you to automatically optimize  your algorithm without revising original source code.  Wolf Engine also includes auto-scheduler to scrutinize the most adaptive optimization techniques based on  user's computing environment.  
 
